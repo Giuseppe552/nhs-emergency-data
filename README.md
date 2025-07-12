@@ -1,3 +1,5 @@
+(This project is currently in development. Check back soon for updated visualizations and insights.)
+
 # NHS Emergency Data Analysis 🚑📊
 
 This project analyzes over a decade of NHS A&E attendance and emergency admission data in England. It focuses on time trends, COVID-19 impact, and operational performance metrics — built to demonstrate digital and analytical competency to potential employers.
