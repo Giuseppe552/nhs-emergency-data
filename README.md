@@ -1,5 +1,18 @@
 (This project is currently in development. Check back soon for updated visualizations and insights.)
 
+## 🔽 Get the data
+
+Raw A&E time-series files are **not stored** in this repo. Download them from the official sources:
+
+- **NHS England — A&E Attendances & Emergency Admissions (monthly/weekly):**  
+  https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/
+
+- **NHS Digital — A&E publications index:**  
+  https://digital.nhs.uk/data-and-information/publications/statistical/nhse-ae-attendances-and-emergency-admissions
+
+Save the downloaded Excel/CSV into:
+
+
 # NHS Emergency Data Analysis 🚑📊
 
 This project analyzes over a decade of NHS A&E attendance and emergency admission data in England. It focuses on time trends, COVID-19 impact, and operational performance metrics — built to demonstrate digital and analytical competency to potential employers.
