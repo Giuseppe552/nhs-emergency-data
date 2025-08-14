@@ -12,6 +12,12 @@ Raw A&E time-series files are **not stored** in this repo. Download them from th
 
 Save the downloaded Excel/CSV into:
 
+data/raw/
+
+(kept out of Git on purpose). Code reads from `data/raw/` and writes cleaned outputs to `data/processed/`.
+
+
+
 
 # NHS Emergency Data Analysis 🚑📊
 
