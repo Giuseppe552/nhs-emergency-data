@@ -1,31 +1,15 @@
-# Python
-__pycache__/
-*.py[cod]
-*.so
+# Raw source data (kept out of Git)
+data/raw/*
+!data/raw/.gitkeep
 
-# Jupyter notebooks
+# Processed artifacts (optional, keep small)
+data/processed/
+
+# Notebooks cache
 .ipynb_checkpoints/
-*.autosave.ipynb
 
-# VSCode or IDE config files
-.vscode/
-.idea/
-
-# Virtual environments
-.env/
+# Python cruft
+__pycache__/
+*.pyc
+.venv/
 venv/
-env/
-
-# OS-specific
-.DS_Store
-Thumbs.db
-
-# Data files (optional: use if data shouldn't be versioned)
-*.xls
-*.xlsx
-*.csv
-
-
-
-
-Add .gitignore to exclude temp and env files
